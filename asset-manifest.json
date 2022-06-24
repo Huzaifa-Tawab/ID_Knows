@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Huzaifa-Tawab/ID_Knows.github.io/static/css/main.84f1e812.css",
-    "main.js": "/Huzaifa-Tawab/ID_Knows.github.io/static/js/main.894a88eb.js",
+    "main.js": "/Huzaifa-Tawab/ID_Knows.github.io/static/js/main.bef475eb.js",
     "static/js/787.75fb1d5d.chunk.js": "/Huzaifa-Tawab/ID_Knows.github.io/static/js/787.75fb1d5d.chunk.js",
     "static/media/computer.png": "/Huzaifa-Tawab/ID_Knows.github.io/static/media/computer.f6b8e4c8e8eb1044629d.png",
     "static/media/Layer.png": "/Huzaifa-Tawab/ID_Knows.github.io/static/media/Layer.df5e9d1ca4f7ca10b940.png",
@@ -28,11 +28,11 @@
     "static/media/maps-and-flags.svg": "/Huzaifa-Tawab/ID_Knows.github.io/static/media/maps-and-flags.116bb784c7a94c70594ae15ba556d703.svg",
     "static/media/facebook-white.svg": "/Huzaifa-Tawab/ID_Knows.github.io/static/media/facebook-white.518b0f632bb1e9d61c889ce15c83d1e5.svg",
     "main.84f1e812.css.map": "/Huzaifa-Tawab/ID_Knows.github.io/static/css/main.84f1e812.css.map",
-    "main.894a88eb.js.map": "/Huzaifa-Tawab/ID_Knows.github.io/static/js/main.894a88eb.js.map",
+    "main.bef475eb.js.map": "/Huzaifa-Tawab/ID_Knows.github.io/static/js/main.bef475eb.js.map",
     "787.75fb1d5d.chunk.js.map": "/Huzaifa-Tawab/ID_Knows.github.io/static/js/787.75fb1d5d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.84f1e812.css",
-    "static/js/main.894a88eb.js"
+    "static/js/main.bef475eb.js"
   ]
 }
